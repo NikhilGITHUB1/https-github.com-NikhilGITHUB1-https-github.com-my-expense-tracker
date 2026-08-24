@@ -51,7 +51,7 @@ Expenses and the monthly budget are stored only in the current browser using `lo
 
 This is a static Vite application and can be deployed by importing the GitHub repository into Vercel. Use `npm run build` as the build command and `dist` as the output directory.
 
-GitHub Repository: To be added after repository creation.
+GitHub Repository: https://github.com/NikhilGITHUB1/https-github.com-NikhilGITHUB1-https-github.com-my-expense-tracker
 
 Live Application: To be added after Vercel deployment.
 
