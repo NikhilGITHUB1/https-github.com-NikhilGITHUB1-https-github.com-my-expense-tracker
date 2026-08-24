@@ -53,7 +53,7 @@ This is a static Vite application and can be deployed by importing the GitHub re
 
 GitHub Repository: https://github.com/NikhilGITHUB1/https-github.com-NikhilGITHUB1-https-github.com-my-expense-tracker
 
-Live Application: To be added after Vercel deployment.
+Live Application: https://expense-tracker-rose-mu-53.vercel.app
 
 ## Verification
 
